@@ -14,7 +14,7 @@ A modern, responsive todo application with AI-powered subtask generation.
 
 ## 🚀 Live Demo
 
-[View Live App](https://YOUR_USERNAME.github.io/YOUR_REPO_NAME/)
+[View Live App](https://akashp157.github.io/AI-Powered-ToDo/)
 
 ## 🛠️ How to Use
 
